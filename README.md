@@ -1,14 +1,16 @@
 # Ruby Playground
-### Where dreams really do come true!
+__**Where dreams really do come true!**__
 The only purpose of this repository is to keep a record of the ideas I have investigated. Many of the concepts here are things have have learned before. Many of them I have learned multiple times... but they I am constantly forgetting the minutia of them. So, my intent is to have a code history which I can look back on that address the parts of Ruby which I find particularly sticky.
 ___
+## Topics
 
-## [Modules](./Module/module.md)
-_**Keeping it *classy* since 1995!**_
+  * ### Ruby Concepts
+    - **[Modules](./Module/module.md)** _Keeping it *classy* since 1995!_
+    - **[Threads](./Thread/thread.md)** _Excellent at increasing performance and insanity!_
 
-See a a more [complete summary](./Module/module.md) at the link in the title or go directly to one of the examples below.
-* **Metaclasses**
-  - [Notes](./Module/module_class_methods/notes.md)
-  - [Code](./Module/module_class_methods/code.md)
+  * ### Algorithms
 
-## [Threads](./Thread/thread.md)
+  * ### Other
+
+
+
